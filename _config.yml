@@ -1,5 +1,4 @@
 title: 0CMS Hexo Example
 url: https://megawron.github.io/0cms-example-hexo
 root: /0cms-example-hexo/
-theme: landscape
-# Ensure we use the default landscape theme if nothing else is provided
+theme: simple
