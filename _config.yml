@@ -1,13 +1,5 @@
 title: 0CMS Hexo Example
-subtitle: A simple Hexo example for 0CMS
-description: A simple Hexo example for 0CMS
-author: 0CMS
-language: en
-timezone: UTC
 url: https://megawron.github.io/0cms-example-hexo
 root: /0cms-example-hexo/
 theme: landscape
-deploy:
-  type: git
-  repo: https://github.com/megawron/0cms-example-hexo.git
-  branch: gh-pages
+# Ensure we use the default landscape theme if nothing else is provided
