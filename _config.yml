@@ -1,0 +1,11 @@
+title: 0CMS Hexo Example
+subtitle: A simple Hexo example for 0CMS
+description: A simple Hexo example for 0CMS
+author: 0CMS
+language: en
+timezone: Europe/Berlin
+url: https://megawron.github.io/0cms-example-hexo
+root: /0cms-example-hexo/
+theme: simple
+source_dir: source
+public_dir: public
