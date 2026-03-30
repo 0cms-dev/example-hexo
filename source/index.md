@@ -6,7 +6,7 @@ title:
     
 ---
 
-<h2>Welcome to 0CMS Hexo22</h2>
+<h2>Welcome to 0CMS Hexo3</h2>
 <p>This is the homepage of the 0CMS Hexo example — a blog-focused Node.js static site generator.</p>
 
 <h2>Featured Services</h2>
